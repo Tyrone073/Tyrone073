@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tyrone073
 - 👀 I’m interested in Develop software and create a home automation 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Electrical installations
+- 💞️ I’m looking to collaborate on the course Alura latam and ONE Oracle
 - 📫 How to reach me ...
 
 <!---
