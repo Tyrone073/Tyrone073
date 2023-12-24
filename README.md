@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image/fondo.png" width="100%">
+  <img src="image/imageFondo.png" width="100%">
 </div>
 
 # 💫 About Me:
