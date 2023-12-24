@@ -1,4 +1,6 @@
-![GitHub Cover](image/fondo.png)
+<div align="center">
+  <img src="image/fondo.png" width="100%">
+</div>
 
 # 💫 About Me:
 Hi 👋, I'm Tyrone Pilay  
